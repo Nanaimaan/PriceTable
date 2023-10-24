@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "image": "https://static.wikia.nocookie.net/harrypotter/images/1/14/Harry_Potter_and_the_Cursed_Child_Script_Book_Cover.jpg/revision/latest?cb=20160726165903",
+      "genre": "Fantasy",
+      "description": "The Eighth Story. Nineteen Years Later. Based on an original story by J.K. Rowling, John Tiffany, and Jack Thorne, a play by Jack Thorne.
+      It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children.While Harry grapples with a past that refuses to stay where it belongs, his youngest son, Albus, must struggle with the weight of a family legacy he never wanted."
+    },
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg",
+      "genre": "Self-help"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
